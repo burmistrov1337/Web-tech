@@ -1,0 +1,10 @@
+p{
+    color: rgb(0, 0, 0);
+}
+span{
+    color: rgb(17, 0, 255);
+}
+
+ul{
+    list-style-type: square;
+}
