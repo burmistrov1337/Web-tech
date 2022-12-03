@@ -1,10 +1,15 @@
-p{
+p {
     color: rgb(0, 0, 0);
 }
-span{
-    color: rgb(17, 0, 255);
+
+span {
+    color: rgb(38, 0, 255);
 }
 
-ul{
+ul {
     list-style-type: square;
 }
+main{
+    background: linear-gradient(160deg, #D141FF 0%, #E097FF 44%, #FFDBF8 100%);
+}
+address{background: linear-gradient(160deg, #D141FF 0%, #E097FF 44%, #FFDBF8 100%);}
